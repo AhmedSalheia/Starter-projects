@@ -11,7 +11,7 @@ This Repo Covers The Starter Apps from The Article.
 - [x] Countdown Component.
 - [x] Todo List App.
 - [x] Calculator App (UI Based on Win10 Calculator).
-- [ ] Weather App.
+- [x] Weather App.
 
 ## Recommended IDE Setup
 
